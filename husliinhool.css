@@ -8,12 +8,12 @@ body {
   .main2 {
     width: 100vw;
     height: 5vh;
-    background-color: rgb(252, 231, 3);
+    background-color: grey;
     display: flex;
     gap: 120px;
     justify-content: center;
     padding: 50px;
-    position: absolute;
+    position: fixed;
   }
   div.main2 a {
     color: black;
